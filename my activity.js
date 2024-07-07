@@ -1,0 +1,1 @@
+alert('Activity page loaded successfully!')
